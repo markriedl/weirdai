@@ -22,3 +22,4 @@ function js_run() {
     const res = result.data['application/json'];
     //document.querySelector("#output-area").appendChild(document.createTextNode(text.result));
   })();
+}
