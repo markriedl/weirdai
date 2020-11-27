@@ -8,4 +8,10 @@ It does not sing or match the lyrics to the music. You have to do that yourself.
 
 This system was developed by Mark Riedl. The work was performed independently of the Georgia Institute of Technology and released under MIT License.
 
+## Demo
+
 The system runs on Google Colab. Open the ```weirdai.ipyp``` file and click the "Open In Colab" button.
+
+## Paper
+
+[Weird AI Yankovic: Generating Parody Lyrics](https://arxiv.org/abs/2009.12240)
